@@ -9,7 +9,7 @@ variables:
   - name: buildPipelineName
     value: 'finfront_build'       # <-- Update this
   - name: artifactName
-    value: 'web'
+    value: 'frontend'
   - name: targetFile
     value: 'app.py'                               # Optional: Which file inside artifact to display
   - name: resourceGroup
